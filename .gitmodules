@@ -1,0 +1,4 @@
+[submodule "hugoscroll"]
+  path = themes/hugoscroll
+  url = git://github.com/rocknrollmarc/hugo-blog-rocknrollmarc.git
+
