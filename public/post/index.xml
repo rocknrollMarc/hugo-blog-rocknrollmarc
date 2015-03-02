@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on rocknrollmarc</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on rocknrollmarc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2015 17:09:08 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about_me</title>
+      <link>http://localhost:1313/post/about_me/</link>
+      <pubDate>Sun, 01 Mar 2015 17:09:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/about_me/</guid>
+      <description>&lt;p&gt;I am a freelance web developer / Agile coach / Workflow optimizer living in Hamburg, Germany.&lt;/p&gt;
+
+&lt;p&gt;I started freelancing in 2008 and have worked for a wide range of clients and agencies.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;LiquidLabs GmbH&lt;/li&gt;
+&lt;li&gt;Otto GmbH&lt;/li&gt;
+&lt;li&gt;Webcare LBJ&lt;/li&gt;
+&lt;li&gt;MSP AG&lt;/li&gt;
+&lt;li&gt;Fuchs EDV&lt;/li&gt;
+&lt;li&gt;Iverbum&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I offer complete web solutions to my clients. I guide you through early stages of project planning and research, help you with architecture and user experience and finally build the site for you.&lt;/p&gt;
+
+&lt;p&gt;My toolkit?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ruby on rails&lt;/li&gt;
+&lt;li&gt;NodeJS&lt;/li&gt;
+&lt;li&gt;Golang&lt;/li&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;li&gt;Postgresql&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
