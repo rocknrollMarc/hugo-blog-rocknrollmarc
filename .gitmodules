@@ -1,0 +1,3 @@
+[submodule "hugo-blog-rocknrollmarc"]
+	path = hugo-blog-rocknrollmarc
+	url = git://github.com/rocknrollmarc/hugo-blog-rocknrollmarc.git
