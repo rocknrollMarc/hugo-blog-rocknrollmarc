@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rocknrollmarc</title>
-    <link>http://localhost:1313/</link>
+    <link>http://yourSiteHere/</link>
     <description>Recent content on rocknrollmarc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Mar 2015 17:09:08 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://yourSiteHere/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about_me</title>
-      <link>http://localhost:1313/post/about_me/</link>
+      <link>http://yoursitehere/post/about_me/</link>
       <pubDate>Sun, 01 Mar 2015 17:09:08 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/about_me/</guid>
+      <guid>http://yoursitehere/post/about_me/</guid>
       <description>&lt;p&gt;I am a freelance web developer / Agile coach / Workflow optimizer living in Hamburg, Germany.&lt;/p&gt;
 
 &lt;p&gt;I started freelancing in 2008 and have worked for a wide range of clients and agencies.&lt;/p&gt;
