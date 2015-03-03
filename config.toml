@@ -1,4 +1,4 @@
-baseurl = "http://yourSiteHere/"
+baseurl = "rocknrollmarc.herokuapp.com"
 languageCode = "en-us"
 title = "rocknrollmarc"
 theme = "hugoscroll"
