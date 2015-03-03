@@ -1,0 +1,10 @@
+box: wercker/default 
+# Build definition
+build:
+  # The steps that will be executed on build
+  steps:
+    - script:
+      - arjen/hugo-build:
+        version: 01.12
+        theme: hugoscroll
+        flags: --buildDrafts=true

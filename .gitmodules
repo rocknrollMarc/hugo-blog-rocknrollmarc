@@ -1,0 +1,5 @@
+[submodule "hugoscroll"]
+	path = hugoscroll
+	url = git://github.com/SenjinDarashiva/hugoscroll.git
+
+
