@@ -23,4 +23,9 @@ build:
         name: go test
         code: |
           go test ./...
+    - script:
+      name: hugo server
+        code: |
+          hugo server -w ./...
+
 
