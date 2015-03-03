@@ -5,6 +5,6 @@ build:
   steps:
     - script:
       - arjen/hugo-build:
-        version: 01.12
+        version: 0.13
         theme: hugoscroll
         flags: --buildDrafts=true
