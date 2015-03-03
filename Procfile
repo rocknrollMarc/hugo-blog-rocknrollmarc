@@ -1,1 +1,1 @@
-web: ./go-cities -port 
+web: ./hugo server -w
